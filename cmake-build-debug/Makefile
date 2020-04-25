@@ -149,6 +149,33 @@ src/SDD/type_atomiques.cpp.s:
 	$(MAKE) -f CMakeFiles\ModelH2O.dir\build.make CMakeFiles/ModelH2O.dir/src/SDD/type_atomiques.cpp.s
 .PHONY : src/SDD/type_atomiques.cpp.s
 
+src/SDD/viewer.obj: src/SDD/viewer.cpp.obj
+
+.PHONY : src/SDD/viewer.obj
+
+# target to build an object file
+src/SDD/viewer.cpp.obj:
+	$(MAKE) -f CMakeFiles\ModelH2O.dir\build.make CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.obj
+.PHONY : src/SDD/viewer.cpp.obj
+
+src/SDD/viewer.i: src/SDD/viewer.cpp.i
+
+.PHONY : src/SDD/viewer.i
+
+# target to preprocess a source file
+src/SDD/viewer.cpp.i:
+	$(MAKE) -f CMakeFiles\ModelH2O.dir\build.make CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.i
+.PHONY : src/SDD/viewer.cpp.i
+
+src/SDD/viewer.s: src/SDD/viewer.cpp.s
+
+.PHONY : src/SDD/viewer.s
+
+# target to generate assembly for a file
+src/SDD/viewer.cpp.s:
+	$(MAKE) -f CMakeFiles\ModelH2O.dir\build.make CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.s
+.PHONY : src/SDD/viewer.cpp.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... src/SDD/type_atomiques.obj
 	@echo ... src/SDD/type_atomiques.i
 	@echo ... src/SDD/type_atomiques.s
+	@echo ... src/SDD/viewer.obj
+	@echo ... src/SDD/viewer.i
+	@echo ... src/SDD/viewer.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

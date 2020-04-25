@@ -16,12 +16,22 @@ fstream
 cmath
 -
 
+C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/viewer.hpp
+vector
+-
+type_atomiques.hpp
+C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/type_atomiques.hpp
+
 C:/Users/evamo/CLionProjects/ModelH2O/src/main.cpp
 iostream
 -
 SDD/type_atomiques.hpp
 C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/type_atomiques.hpp
 SFML/Graphics.hpp
+-
+SDD/viewer.hpp
+C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/viewer.hpp
+cmath
 -
 
 C:/sfml/SFML-2.5.1/include/SFML/Config.hpp

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ModelH2O.dir/src/SDD/type_atomiques.cpp.obj"
+  "CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.obj"
   "CMakeFiles/ModelH2O.dir/src/main.cpp.obj"
   "ModelH2O.exe"
   "ModelH2O.exe.manifest"

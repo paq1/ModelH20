@@ -4,7 +4,12 @@
 CMakeFiles/ModelH2O.dir/src/SDD/type_atomiques.cpp.obj: ../src/SDD/type_atomiques.cpp
 CMakeFiles/ModelH2O.dir/src/SDD/type_atomiques.cpp.obj: ../src/SDD/type_atomiques.hpp
 
+CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.obj: ../src/SDD/type_atomiques.hpp
+CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.obj: ../src/SDD/viewer.cpp
+CMakeFiles/ModelH2O.dir/src/SDD/viewer.cpp.obj: ../src/SDD/viewer.hpp
+
 CMakeFiles/ModelH2O.dir/src/main.cpp.obj: ../src/SDD/type_atomiques.hpp
+CMakeFiles/ModelH2O.dir/src/main.cpp.obj: ../src/SDD/viewer.hpp
 CMakeFiles/ModelH2O.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/ModelH2O.dir/src/main.cpp.obj: C:/sfml/SFML-2.5.1/include/SFML/Config.hpp
 CMakeFiles/ModelH2O.dir/src/main.cpp.obj: C:/sfml/SFML-2.5.1/include/SFML/Graphics.hpp

@@ -90,6 +90,12 @@
 		<Unit filename="C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/type_atomiques.hpp">
 			<Option target="ModelH2O"/>
 		</Unit>
+		<Unit filename="C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/viewer.cpp">
+			<Option target="ModelH2O"/>
+		</Unit>
+		<Unit filename="C:/Users/evamo/CLionProjects/ModelH2O/src/SDD/viewer.hpp">
+			<Option target="ModelH2O"/>
+		</Unit>
 		<Unit filename="C:/Users/evamo/CLionProjects/ModelH2O/src/main.cpp">
 			<Option target="ModelH2O"/>
 		</Unit>
